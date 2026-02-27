@@ -21,3 +21,23 @@
 *My model performed great! The graphs show that it learned the plant features quickly and reached high accuracy levels. While Class 4 had a lower accuracy of 0.76, the rest of the species were mostly above 0.90. Overall, the evaluation proves the model is ready to identify different plants with high confidence.
 
 ## Step 6: Testing the Model
+
+<img width="361" height="388" alt="image" src="https://github.com/user-attachments/assets/ea4c8357-0a4d-44be-a494-7f446cf8408d" />
+<img width="362" height="493" alt="image" src="https://github.com/user-attachments/assets/0a536582-a3ba-4085-b615-8c2019888216" />
+<img width="264" height="782" alt="image" src="https://github.com/user-attachments/assets/55a5fa47-23cc-4d75-a148-ed8b493c5db4" />
+<img width="402" height="553" alt="image" src="https://github.com/user-attachments/assets/eea4c153-0156-4598-a47c-f150f20bc383" />
+<img width="358" height="610" alt="image" src="https://github.com/user-attachments/assets/27fb0984-ed2c-4a89-b5d7-07c329b46995" />
+<img width="382" height="638" alt="image" src="https://github.com/user-attachments/assets/73bf4d12-31ac-4f44-ba46-e298c614c18b" />
+<img width="389" height="627" alt="image" src="https://github.com/user-attachments/assets/6547faba-9dd0-4201-8c71-c231e36d82f2" />
+<img width="340" height="644" alt="image" src="https://github.com/user-attachments/assets/bfdc73e7-8ff6-4335-a3a6-be975bdecc6f" />
+<img width="336" height="711" alt="image" src="https://github.com/user-attachments/assets/74919bc5-a21b-467f-be33-d834dea54232" />
+<img width="443" height="756" alt="image" src="https://github.com/user-attachments/assets/70c82a69-f6bc-43ca-b9cf-079b583253cd" />
+
+*I conducted 10 different tests using new images to verify the model's accuracy. The model performed exceptionally well, identifying classes like Class 1, Class 8, and Class 9 with 100% confidence. Most results were perfect, confirming that the training was successful and the model is ready for use.
+
+
+
+
+
+
+
