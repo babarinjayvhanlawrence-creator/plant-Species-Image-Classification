@@ -15,7 +15,8 @@ Scientific Name: Saintpaulia ionantha
 
 About this plant: Famous for its fuzzy, heart-shaped leaves and bright clusters of flowers. They are a favorite for indoor gardeners because they stay small and bloom beautifully.
 
-Representative Image: <img width="626" height="626" alt="image" src="https://github.com/user-attachments/assets/905e04af-da8d-4142-9354-bc7122d6b3bb" />
+Representative Image:
+<img width="626" height="626" alt="image" src="https://github.com/user-attachments/assets/905e04af-da8d-4142-9354-bc7122d6b3bb" />
 
 
 
