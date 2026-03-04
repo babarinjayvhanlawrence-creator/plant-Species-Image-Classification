@@ -1,4 +1,4 @@
-![000005](https://github.com/user-attachments/assets/a89d736c-5061-4c87-9f93-97e95eb45b32)# plant-Species-Image-Classification
+# plant-Species-Image-Classification
 
 
 
