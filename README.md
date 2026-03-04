@@ -312,5 +312,19 @@ Representative Image: ![000031](https://github.com/user-attachments/assets/a603e
 "To conclude the project, I exported the final trained model and stored it in Google Drive as a zip file. This ensures the model is backed up and ready for future use or deployment".
 
 
+## Reflection
+ANS:
+
+1. (Accuracy): Having 250 images per class provided enough variety for the model to reach high accuracy, generally above 90%.
+
+2. (Misclassification): Class 4 was most commonly misclassified (0.76 accuracy), likely due to visual similarities with other green-leafed species in the dataset.
+
+3. (Parameters): 50 epochs allowed the model to stabilize its learning, and the 0.001 learning rate ensured the training didn't "jump" past the best accuracy too quickly.
+
+4. (Challenges): The biggest challenge was the manual labor of gathering 250 high-quality, non-blurry images for all 20 species.
+
+5. (Improvements): I would add more images with varied backgrounds or lighting to make the model even better at identifying plants in outdoor environments.
+
+
 
 
