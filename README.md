@@ -1,4 +1,4 @@
-# plant-Species-Image-Classification
+![000005](https://github.com/user-attachments/assets/a89d736c-5061-4c87-9f93-97e95eb45b32)# plant-Species-Image-Classification
 
 
 
@@ -27,7 +27,8 @@ Scientific Name: Tillandsia
 
 About this plant: These unique plants don't need soil to grow! They absorb water and nutrients through their leaves, making them look like little green sea creatures living on air.
 
-Representative Image: (Drag your image here)
+Representative Image:![000002](https://github.com/user-attachments/assets/5755266d-571b-411a-a105-77ee5f2988f1)
+
 
 
 
@@ -38,7 +39,8 @@ Scientific Name: Tacca chantrieri
 
 About this plant: One of the most unusual flowers in the world, it features dark, almost black petals and long "whiskers" that give it the appearance of a bat in flight.
 
-Representative Image: (Drag your image here)
+Representative Image: ![000003](https://github.com/user-attachments/assets/34028048-f077-4101-8166-fde62f607aef)
+
 
 
 
@@ -49,7 +51,8 @@ Scientific Name: Lamprocapnos spectabilis
 
 About this plant: This plant is named for its stunning heart-shaped flowers that dangle from arching stems, looking exactly like tiny pink and white hearts.
 
-Representative Image: (Drag your image here)
+Representative Image: ![000008](https://github.com/user-attachments/assets/3ecf9e7e-eb47-4765-8f05-b41346691602)
+
 
 
 
@@ -60,7 +63,8 @@ Scientific Name: Caladium bicolor
 
 About this plant: Known as "Angel Wings," these plants are loved for their large, paper-thin leaves that come in incredible combinations of pink, white, and green.
 
-Representative Image: (Drag your image here)
+Representative Image: ![000005](https://github.com/user-attachments/assets/5a5bda16-08f4-4d92-92b4-8d0518d5f023)
+
 
 
 
@@ -72,7 +76,8 @@ Scientific Name: Celosia cristata
 
 About this plant: The flower heads on this plant are wavy and velvety, often looking like a bright red or orange brain or the comb of a rooster.
 
-Representative Image: (Drag your image here)
+Representative Image: ![000008](https://github.com/user-attachments/assets/9e46ff28-0c0f-43e0-b4a2-0f85a4e6175b)
+
 
 
 
@@ -84,7 +89,8 @@ Scientific Name: Coleus scutellarioides
 
 About this plant: These are all about the foliage! Their leaves feature vibrant, neon patterns of burgundy, lime green, and hot pink that look hand-painted.
 
-Representative Image: (Drag your image here)
+Representative Image: ![000008](https://github.com/user-attachments/assets/b31b476b-26c4-4cae-adec-52951870c585)
+
 
 
 
@@ -97,7 +103,8 @@ Scientific Name: Acalypha wilkesiana
 
 About this plant: This shrub stands out with its copper-colored, serrated leaves that turn brilliant shades of red and bronze in the sun.
 
-Representative Image: (Drag your image here)
+Representative Image: ![000008](https://github.com/user-attachments/assets/1aa234bb-3fde-465f-b54d-4b1195073e6e)
+
 
 
 
@@ -109,7 +116,8 @@ Scientific Name: Ficus lyrata
 
 About this plant: A very trendy indoor tree with large, waxy leaves shaped just like a violin or a fiddle. It's a bold statement plant for any room.
 
-Representative Image: (Drag your image here)
+Representative Image:![000002](https://github.com/user-attachments/assets/c1129aa2-d676-4475-8850-7d4cd40c7013)
+
 
 
 
@@ -122,7 +130,8 @@ Scientific Name: Hydrangea macrophylla
 
 About this plant: Famous for its massive, globe-shaped flower clusters that can actually change color from blue to pink depending on the soil's acidity.
 
-Representative Image: (Drag your image here)
+Representative Image: ![000005](https://github.com/user-attachments/assets/2cb4b12e-4a14-4c09-907f-f6927b06e9ef)
+
 
 
 
@@ -135,7 +144,8 @@ Scientific Name: Strongylodon macrobotrys
 
 About this plant: This rare tropical vine produces hanging clusters of claw-shaped flowers in a stunning, almost unnatural turquoise-green color.
 
-Representative Image: (Drag your image here)
+Representative Image: ![000004](https://github.com/user-attachments/assets/581dfbd1-a807-4cca-ad2a-9cc7f8f98a39)
+
 
 
 
@@ -147,7 +157,8 @@ Scientific Name: Imperata cylindrica 'Rubra'
 
 About this plant: This ornamental grass starts out green at the bottom but turns a deep, fiery red toward the tips, making the garden look like it's glowing.
 
-Representative Image: (Drag your image here)
+Representative Image: ![000012](https://github.com/user-attachments/assets/9ef68a74-f0c5-4e70-8969-05e2d0dc831d)
+
 
 
 
@@ -159,7 +170,8 @@ Scientific Name: Maranta leuconeura
 
 About this plant: This plant is "active"—its beautiful patterned leaves fold up together at night like hands in prayer, then open back up every morning.
 
-Representative Image: (Drag your image here)
+Representative Image: ![000007](https://github.com/user-attachments/assets/d54c349a-334e-4e63-b6df-aa543183b335)
+
 
 
 
@@ -171,7 +183,8 @@ Scientific Name: Cenchrus setaceus 'Rubrum'
 
 About this plant: A graceful grass with burgundy foliage and soft, fuzzy flower spikes that sway in the wind like purple feathers.
 
-Representative Image: (Drag your image here)
+Representative Image: ![000003](https://github.com/user-attachments/assets/05f2365f-e3a8-4b1e-ab28-8fc7637f8e02)
+
 
 
 
@@ -183,7 +196,8 @@ Scientific Name: Tradescantia zebrina
 
 About this plant: This trailing plant has striking purple and green striped leaves that have a shimmering, silvery metallic finish in the light.
 
-Representative Image: (Drag your image here)
+Representative Image: ![000003](https://github.com/user-attachments/assets/723967fd-f0b8-489d-9a80-40b89615672e)
+
 
 
 
@@ -195,7 +209,8 @@ Scientific Name: Dracaena trifasciata
 
 About this plant: Also called "Mother-in-law's tongue," these hardy plants have stiff, vertical leaves that are experts at cleaning the air in your home.
 
-Representative Image: (Drag your image here)
+Representative Image: ![000009](https://github.com/user-attachments/assets/ae52b832-5272-46bc-8439-f44af88eade4)
+
 
 
 
@@ -207,7 +222,8 @@ Scientific Name: Spathiphyllum
 
 About this plant: A classic indoor plant with glossy green leaves and elegant white flowers that symbolize peace and purity.
 
-Representative Image: (Drag your image here)
+Representative Image: ![000001](https://github.com/user-attachments/assets/106af8d4-5192-4d9a-9bba-395e7855799a)
+
 
 
 
@@ -219,7 +235,8 @@ Scientific Name: Strelitzia reginae
 
 About this plant: This tropical beauty produces dramatic flowers that look exactly like the head of a brightly colored exotic bird.
 
-Representative Image: (Drag your image here)
+Representative Image: ![000005](https://github.com/user-attachments/assets/31fc31d0-b1e1-4958-aa02-bdeb2e14ff40)
+
 
 
 
@@ -232,7 +249,8 @@ Scientific Name: Curio rowleyanus
 
 About this plant: A unique succulent with long, trailing stems covered in tiny green spheres that look just like a necklace of pearls.
 
-Representative Image: (Drag your image here)
+Representative Image:![000013](https://github.com/user-attachments/assets/e81b89c6-d73c-4d2f-b6b4-98588dc0ccd1)
+
 
 
 
@@ -244,7 +262,8 @@ Scientific Name: Monstera deliciosa
 
 About this plant: Famous for the natural holes and splits that develop in its large, heart-shaped leaves, making it look like a slice of Swiss cheese.
 
-Representative Image: (Drag your image here)
+Representative Image: ![000031](https://github.com/user-attachments/assets/a603eadf-d214-411f-a705-0b38e92eb640)
+
 
 
 
